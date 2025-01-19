@@ -9,3 +9,5 @@ python爬虫+互联网搜集整理获取初始文件
 使用翻译模型+人工标注完成天津方言与普通话文本的互译txt文件，最终转为json格式并上传Github
 
 数据整理+标注过程由杨博、陈杞缘完成。
+json文件预览截图：
+![屏幕截图 2025-01-20 010633](https://github.com/user-attachments/assets/4cb139dc-4b11-4a69-8321-7caa85ea12af)
